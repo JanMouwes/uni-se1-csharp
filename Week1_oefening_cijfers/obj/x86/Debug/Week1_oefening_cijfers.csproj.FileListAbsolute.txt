@@ -1,0 +1,6 @@
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_oefening_cijfers/obj/x86/Debug/Week1_oefening_cijfers.csproj.CoreCompileInputs.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_oefening_cijfers/bin/Debug/Week1_oefening_cijfers.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_oefening_cijfers/bin/Debug/Week1_oefening_cijfers.pdb
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_oefening_cijfers/obj/x86/Debug/Week1_oefening_cijfers.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_oefening_cijfers/obj/x86/Debug/Week1_oefening_cijfers.pdb
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_oefening_cijfers/obj/x86/Debug/Week1_oefening_cijfers.csprojAssemblyReference.cache

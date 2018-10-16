@@ -1,0 +1,5 @@
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_polymorphism/bin/Debug/Week2b_polymorphism.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_polymorphism/bin/Debug/Week2b_polymorphism.pdb
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_polymorphism/obj/x86/Debug/Week2b_polymorphism.csproj.CoreCompileInputs.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_polymorphism/obj/x86/Debug/Week2b_polymorphism.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_polymorphism/obj/x86/Debug/Week2b_polymorphism.pdb

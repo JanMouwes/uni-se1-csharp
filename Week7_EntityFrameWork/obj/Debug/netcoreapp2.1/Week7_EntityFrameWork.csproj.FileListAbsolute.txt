@@ -1,0 +1,11 @@
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/bin/Debug/netcoreapp2.1/Week7_EntityFrameWork.deps.json
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/bin/Debug/netcoreapp2.1/Week7_EntityFrameWork.runtimeconfig.json
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/bin/Debug/netcoreapp2.1/Week7_EntityFrameWork.runtimeconfig.dev.json
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/bin/Debug/netcoreapp2.1/Week7_EntityFrameWork.dll
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/bin/Debug/netcoreapp2.1/Week7_EntityFrameWork.pdb
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/obj/Debug/netcoreapp2.1/Week7_EntityFrameWork.csprojAssemblyReference.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/obj/Debug/netcoreapp2.1/Week7_EntityFrameWork.csproj.CoreCompileInputs.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/obj/Debug/netcoreapp2.1/Week7_EntityFrameWork.AssemblyInfoInputs.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/obj/Debug/netcoreapp2.1/Week7_EntityFrameWork.AssemblyInfo.cs
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/obj/Debug/netcoreapp2.1/Week7_EntityFrameWork.dll
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/obj/Debug/netcoreapp2.1/Week7_EntityFrameWork.pdb

@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/Week7_EntityFrameWork.csproj",
+    "projectName": "Week7_EntityFrameWork",
+    "projectPath": "/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/Week7_EntityFrameWork.csproj",
+    "outputPath": "/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week7_EntityFrameWork/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "EntityFramework": {
+          "target": "Package",
+          "version": "[6.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

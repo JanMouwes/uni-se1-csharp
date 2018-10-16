@@ -1,0 +1,5 @@
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1b_oefening_boten/bin/Debug/Week1b_oefening_boten.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1b_oefening_boten/bin/Debug/Week1b_oefening_boten.pdb
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1b_oefening_boten/obj/x86/Debug/Week1b_oefening_boten.csproj.CoreCompileInputs.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1b_oefening_boten/obj/x86/Debug/Week1b_oefening_boten.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1b_oefening_boten/obj/x86/Debug/Week1b_oefening_boten.pdb

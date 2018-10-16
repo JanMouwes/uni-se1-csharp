@@ -1,0 +1,11 @@
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/bin/Debug/netcoreapp2.1/Week3_events.deps.json
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/bin/Debug/netcoreapp2.1/Week3_events.runtimeconfig.json
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/bin/Debug/netcoreapp2.1/Week3_events.runtimeconfig.dev.json
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/bin/Debug/netcoreapp2.1/Week3_events.dll
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/bin/Debug/netcoreapp2.1/Week3_events.pdb
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/obj/Debug/netcoreapp2.1/Week3_events.csprojAssemblyReference.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/obj/Debug/netcoreapp2.1/Week3_events.csproj.CoreCompileInputs.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/obj/Debug/netcoreapp2.1/Week3_events.AssemblyInfoInputs.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/obj/Debug/netcoreapp2.1/Week3_events.AssemblyInfo.cs
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/obj/Debug/netcoreapp2.1/Week3_events.dll
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week3_events/obj/Debug/netcoreapp2.1/Week3_events.pdb

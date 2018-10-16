@@ -1,0 +1,9 @@
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_repositories/obj/x86/Debug/Week2b_repositories.csprojAssemblyReference.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_repositories/obj/x86/Debug/Week2b_repositories.csproj.CoreCompileInputs.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_repositories/bin/Debug/Week2b_repositories.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_repositories/bin/Debug/Week2b_repositories.pdb
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_repositories/bin/Debug/Week2b_polymorphism.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_repositories/bin/Debug/Week2b_polymorphism.pdb
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_repositories/obj/x86/Debug/Week2b_repositories.csproj.CopyComplete
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_repositories/obj/x86/Debug/Week2b_repositories.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week2b_repositories/obj/x86/Debug/Week2b_repositories.pdb

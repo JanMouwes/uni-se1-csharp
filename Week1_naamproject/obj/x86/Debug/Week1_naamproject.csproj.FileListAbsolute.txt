@@ -1,0 +1,5 @@
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_naamproject/bin/Debug/Week1_naamproject.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_naamproject/bin/Debug/Week1_naamproject.pdb
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_naamproject/obj/x86/Debug/Week1_naamproject.csproj.CoreCompileInputs.cache
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_naamproject/obj/x86/Debug/Week1_naamproject.exe
+/Users/gebruiker/Desktop/School/Windesheim/Windesheim 2018-2019/C#/CSharp_in_de_les/Week1_naamproject/obj/x86/Debug/Week1_naamproject.pdb
